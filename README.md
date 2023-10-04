@@ -15,3 +15,6 @@ many notes here
 ## Git
 
 ### Git简注
+
+
+# 还有配套教材，每晚会进行同步更新
